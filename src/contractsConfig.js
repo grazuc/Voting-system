@@ -1,7 +1,7 @@
 
 
 // Dirección y ABI del contrato Voting
-export const VotingContractAddress = "0x6f02282be705Ed38Bf1063c87Bd3789ba3D31cbC";
+export const VotingContractAddress = "0x405B8fDfcfF2eC620C13e292f326633ce66B2Ed9";
 export const VotingContractABI = [
     {
         "inputs": [
@@ -135,7 +135,7 @@ export const VotingContractABI = [
 ];
 
 // Dirección y ABI del contrato VoterRegistration
-export const VoterRegistrationContractAddress = "0xab92449B4e4a1aF1e876b5882246A5222FF74Ac9";
+export const VoterRegistrationContractAddress = "0xf91d3b41526cec5363e26DAa029Fc3f8eaC3F77F";
 export const VoterRegistrationContractABI = [
     {
         "inputs": [],
